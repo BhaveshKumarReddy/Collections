@@ -8,8 +8,8 @@ namespace Collections
 {
     internal class Class1
     {
-        public int Eidq { get; set; }
-        public float Salaryq { get; set; }
-        public string Enameq { get; set; }
+        public int E { get; set; }
+        public float Salary { get; set; }
+        public string Ename { get; set; }
     }
 }
